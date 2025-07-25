@@ -20,6 +20,7 @@
 
 ```bash
 git status
+```
 
 ## Task List
 Use this list to track your Week 3 progress.
