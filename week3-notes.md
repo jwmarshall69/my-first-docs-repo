@@ -1,15 +1,37 @@
-# Week 3 Notes – VS Code Practice
+# 📘 Week 3 Notes – Visual Studio Code Practice
 
-## Key Takeaways
-- VS Code interface is highly customizable
+## ✨ Key Takeaways
+- Learned the layout and tools inside VS Code
 - Installed extensions for Markdown, Git, YAML
-- Markdown preview and linting are super helpful
+- Practiced using Markdown preview and formatting
 
-## Code Sample
+---
+
+## 🧰 Installed Extensions
+- ✅ Markdown All-in-One
+- ✅ GitLens
+- ✅ YAML (Red Hat)
+- ✅ Prettier
+- ✅ Markdownlint
+
+---
+
+## 🧪 Code Sample
+
 ```bash
 git status
 
-## Task List 
-- [x] Installed extensions
-- [ ] Explore Gitlens features
+## Task List
+Use this list to track your Week 3 progress.
+- [x] Open my repo in VS Code
+- [x] Install recommended extensions
+- [x] Created and edited a Markdown file
+- [x] Previewed the file using VS Code preview
+- [ ] Explore Gitlens annotation features
+- [ ] Customize my VS Code theme and settings
+
+## Notes
+- I like using the Markdown preview for reviewing formatting.
+- Gitlens shows who made each change in the fille- very useful!
+- Still exploring settings to make VS Code more writing-friendly.
 
