@@ -1,8 +1,7 @@
-```markdown
-```markdown
 # 📘 Week 4 Notes
 
 ## ✨ Key Takeaways
+
 - [x] Created `feature/week4-notes`
 - [x] Added `week4-notes.md`
 - [x] Committed changes in GitHub Desktop
@@ -12,6 +11,7 @@
 ---
 
 ## 📋 Task List
+
 - [ ] Review this week's goals
 - [ ] Complete hands-on practice
 - [ ] Push changes to GitHub
