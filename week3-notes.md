@@ -24,7 +24,7 @@
 git status
 ```
 
-## Task List
+## 📋 Task List
 
 Use this list to track your Week 3 progress.
 
@@ -35,9 +35,14 @@ Use this list to track your Week 3 progress.
 - [ ] Explore Gitlens annotation features
 - [ ] Customize my VS Code theme and settings
 
-## Notes
+## 📝 Notes 
 
 - I like using the Markdown preview for reviewing formatting.
 - Gitlens shows who made each change in the fille- very useful!
 - Still exploring settings to make VS Code more writing-friendly.
+
+## 🔁 Commit Log
+
+- Added week3-notes.md
+- Updated task list and key takeaways
 
