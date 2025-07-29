@@ -1,11 +1,13 @@
 # 📘 Week 7 Notes
 
 ## ✨ Key Takeaways
+
 - 
 
 ---
 
 ## 📋 Task List
+
 - [ ] Review this week's goals
 - [ ] Complete hands-on practice
 - [ ] Push changes to GitHub
@@ -23,11 +25,13 @@
 ---
 
 ## 📝 Notes
+
 - 
 
 ---
 
 ## 🔁 Commit Log
+
 - 
 ```
 
