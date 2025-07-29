@@ -1,36 +1,7 @@
 ```markdown
-# 📘 Week 4 Notes
+# Week 4 Notes – Branching and Pushing
 
-## ✨ Key Takeaways
-- 
+- Created a new branch called `feature/week4-notes`
+- Wrote notes about Git branching
+- Pushed my branch to GitHub
 
----
-
-## 📋 Task List
-- [ ] Review this week's goals
-- [ ] Complete hands-on practice
-- [ ] Push changes to GitHub
-- [ ] Write and commit notes
-- [ ] Reflect on what I learned
-
----
-
-## 🧪 Commands or Techniques Practiced
-
-```bash
-# Add your Git or CLI commands here
-```
-
----
-
-## 📝 Notes
-- 
-
----
-
-## 🔁 Commit Log
-- 
-```
-
-
-```markdown
