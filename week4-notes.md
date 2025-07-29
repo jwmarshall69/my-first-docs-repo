@@ -39,6 +39,3 @@
 ## 🔁 Commit Log
 - 
 ```
-
-
-```markdown
