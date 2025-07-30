@@ -14,11 +14,11 @@ In API documentation projects, especially when using GitHub collaboratively, bra
 
 ## 📋 Task List
 
-- [ ] Review this week's goals
-- [ ] Complete hands-on practice
-- [ ] Push changes to GitHub
-- [ ] Write and commit notes
-- [ ] Reflect on what I learned
+- [x] Learned branch types and naming conventions
+- [x] Created a `feature/api-overview`
+- [x] Wrote a new topic file
+- [x] Committed and pushed to GitHub
+- [x] Opened a PR for it
 
 ---
 
