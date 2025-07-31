@@ -2,8 +2,6 @@
 
 ## ✨ Key Takeaways
 
-- 
-
 ---
 
 ## 📋 Task List
@@ -26,11 +24,6 @@
 
 ## 📝 Notes
 
-- 
-
 ---
 
 ## 🔁 Commit Log
-
-- 
-```
