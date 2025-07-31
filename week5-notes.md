@@ -32,13 +32,13 @@ In API documentation projects, especially when using GitHub collaboratively, bra
 
 ## 📝 Notes
 
-- Learn naming conventions and types of branches
+- Learned naming conventions and types of branches
 
 - Understand how branching supports Docs-as-Code
 
-- Create a branch for a specific documentation feature
+- Created a branch for a specific documentation feature
 
-- Practice making, committing, and pushing changes
+- Practiced making, committing, and pushing changes
 
 ---
 
