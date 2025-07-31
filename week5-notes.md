@@ -47,7 +47,3 @@ In API documentation projects, especially when using GitHub collaboratively, bra
 ---
 
 ## 🔁 Commit Log
-
-- 
-```
-
