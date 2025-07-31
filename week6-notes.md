@@ -8,11 +8,11 @@
 
 ## 📋 Task List
 
-- [ ] Review this week's goals
-- [ ] Complete hands-on practice
-- [ ] Push changes to GitHub
-- [ ] Write and commit notes
-- [ ] Reflect on what I learned
+- [x] Opened the Pull Request created last week
+- [x] Reviewed the changes in the “Files changed” tab
+- [x] Submitted a review (even self-review)
+- [x] Merged the branch into `main`
+- [x] Deleted the branch (optional but clean)
 
 ---
 
@@ -24,9 +24,11 @@
 
 ---
 
-## 📝 Notes
+## 📝 Notes - Week 6 Highlights
 
-- 
+- Reviewed and merged `feature/api-overview`
+- Practiced using GitHub's Pull Request tools
+- Deleted the branch after merging
 
 ---
 
