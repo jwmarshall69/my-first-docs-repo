@@ -35,7 +35,7 @@ Use this list to track your Week 3 progress.
 - [ ] Explore Gitlens annotation features
 - [ ] Customize my VS Code theme and settings
 
-## 📝 Notes 
+## 📝 Notes
 
 - I like using the Markdown preview for reviewing formatting.
 - Gitlens shows who made each change in the fille- very useful!
@@ -45,4 +45,3 @@ Use this list to track your Week 3 progress.
 
 - Added week3-notes.md
 - Updated task list and key takeaways
-
