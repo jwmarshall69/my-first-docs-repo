@@ -15,9 +15,13 @@ In API documentation projects, especially when using GitHub collaboratively, bra
 ## 📋 Task List
 
 - [x] Learned branch types and naming conventions
+  
 - [x] Created a `feature/api-overview`
+  
 - [x] Wrote a new topic file
+  
 - [x] Committed and pushed to GitHub
+  
 - [x] Opened a PR for it
 
 ---
