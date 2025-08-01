@@ -9,21 +9,14 @@
   
 ---
 
-## 🧠 What is Forking
-
-- A fork is your personal copy of someone else's repository on GitHub
-- It lets you make changes without affecting the original project
-- After making changes, you can submit a Pull Request to purpose your edits to the original project (often called the upstream repo)
-
 ---
 
 ## 📋 Task List
 
-- [ ] Review this week's goals
-- [ ] Complete hands-on practice
-- [ ] Push changes to GitHub
-- [ ] Write and commit notes
-- [ ] Reflect on what I learned
+- [x] Practiced using headers, links, code, tables, and quotes
+- [x] Created a full `markdown-practice.md` file
+- [x] Previewed it in VS Code
+- [x] Committed and pushed changes to GitHub
 
 ---
 
@@ -35,12 +28,11 @@
 
 ---
 
-## 📝 Notes - Week Highlights
+## 📝 Notes - Week 9 Highlights
 
-- Forked a public repository
-- Clone it to my local machine
-- Made a doc edit and committed it
-- Opened a Pull Request back to original repo
+- Practiced advanced Markdown for API documentation
+- Used tables, code blocks, and internal linking
+- Improved formatting for developer usability
 
 ---
 
