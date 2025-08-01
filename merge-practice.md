@@ -1,3 +1,1 @@
-# Merge Conflict Practice
-
-This is the original content from the main branch.
+This line was added from branch Alpha.
