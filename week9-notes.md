@@ -2,11 +2,11 @@
 
 ## ✨ Key Takeaways
 
-- Understand what forking is and when to use it
-- Fork a public repo to your GitHub account
-- Clone it locally using GitHub Desktop
-- Make a contribution and open a PR back to the original repo
-
+- Deepen my understanding of Markdown syntax
+- Practice formatting real-world API documentation
+- Learn internal linking and table formatting
+- Preview and Lint Markdown in VS Code
+  
 ---
 
 ## 🧠 What is Forking
