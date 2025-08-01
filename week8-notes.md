@@ -19,11 +19,11 @@
 
 ## 📋 Task List
 
-- [ ] Review this week's goals
-- [ ] Complete hands-on practice
-- [ ] Push changes to GitHub
-- [ ] Write and commit notes
-- [ ] Reflect on what I learned
+- [x] Forked a public GitHub repository  
+- [x] Clone the fork locally with GitHub Desktop
+- [x] Made a small but meaningful documentation edit
+- [x] Committed and pushed the change
+- [x] Opened a Pull Request back to the original (upstream) project
 
 ---
 
