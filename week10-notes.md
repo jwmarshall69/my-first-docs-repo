@@ -21,12 +21,11 @@ GitHub uses the /docs folder automatically with GitHub Pages. Structuring your c
 
 ## 📋 Task List
 
-- [ ]  
-- [ ]  
-- [ ]  
-- [ ]  
-- [ ]  
-
+- [x] Created a `/docs` folder in my repo
+- [x] Added `overview.md`, `getting-started.md`, and `faq.md`
+- [x] Used internal links to connect files
+- [x] Committed and pushed changes
+  
 ---
 
 ## 🧪 Commands or Techniques Practiced
@@ -37,9 +36,11 @@ GitHub uses the /docs folder automatically with GitHub Pages. Structuring your c
 
 ---
 
-## 📝 Notes - Week Highlights
+## 📝 Notes - Week 10 Highlights
 
--  
+- Structured my docs into a `/docs` folder
+- Created modular files for overview, setup, and FAQs
+- Linked files together for easy navigation
 
 ---
 
