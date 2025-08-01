@@ -35,7 +35,12 @@
 
 ---
 
-## 📝 Notes
+## 📝 Notes - Week Highlights
+
+- Forked a public repository
+- Clone it to my local machine
+- Made a doc edit and committed it
+- Opened a Pull Request back to original repo
 
 ---
 
