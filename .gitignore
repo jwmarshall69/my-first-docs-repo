@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs & system files
+*.log
+*.tmp
+
+# Build artifacts (future use)
+dist/
+node_modules/
