@@ -1,29 +1,45 @@
-# 📘 Week 11 Notes
+# 📘 Week 11 Notes - Commit Best Practices & `.gitignore` Usage
 
 ## ✨ Key Takeaways
 
-- Understand what forking is and when to use it
-- Fork a public repo to your GitHub account
-- Clone it locally using GitHub Desktop
-- Make a contribution and open a PR back to the original repo
+- Write meaningful, consistent commit messages
+- Use atomic commits (one purpose per commit)
+- Set up a .gitignore file to exclude unnecessary files from your repo
 
 ---
 
-## 🧠 What is Forking
+## 🧠 Why Commit Quality Matters
 
-- A fork is your personal copy of someone else's repository on GitHub
-- It lets you make changes without affecting the original project
-- After making changes, you can submit a Pull Request to purpose your edits to the original project (often called the upstream repo)
+Good commit messages:
+
+- Help teams understand what changed and why
+- Make rollbacks and reviews easier
+- Let project history serve as documentation
+
+---
+
+## 🔄 Practice Activity
+
+ 1. Edit one of your `/docs` files—make a small content improvement
+
+ 2. Stage it in GitHub Desktop
+
+ 3. Write a descriptive commit message
+
+ 4. Push the commit to GitHub
+
+ 5. Add a `.gitignore` file to your repo
+
+ 6. Commit that separately: `chore: add .gitignore for VS Code and system files`
 
 ---
 
 ## 📋 Task List
 
-- [ ] Review this week's goals
-- [ ] Complete hands-on practice
-- [ ] Push changes to GitHub
-- [ ] Write and commit notes
-- [ ] Reflect on what I learned
+- [x] Followed best practices for commit messages
+- [x] Made at least one new atomic commit with a clear summary
+- [x] Created and configured `.gitignore`
+- [x] Pushed all changes to GitHub
 
 ---
 
@@ -35,12 +51,11 @@
 
 ---
 
-## 📝 Notes - Week Highlights
+## 📝 Notes - Week 11 Highlights
 
-- Forked a public repository
-- Clone it to my local machine
-- Made a doc edit and committed it
-- Opened a Pull Request back to original repo
+- Practiced writing clear, purpose-driven commit messages
+- Learned the value of atomic commits
+- Created a `.gitignore` to keep clutter out of the repo
 
 ---
 
