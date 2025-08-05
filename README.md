@@ -1,7 +1,23 @@
-## About This Repo
-This is a practice project for learning GitHub and Docs-as-Code workflows.
+# To-Do API Documentation
 
-### Goals
-- Learn Git and GitHub basics
-- Practice Markdown
-- Build real-world API documentation examples
+This project provides end-user and technical documentation for a sample To-Do API service.
+
+## Features
+
+- RESTful API overview
+- Authentication and usage examples
+- Modular Markdown docs in `/docs`
+
+## Getting Started
+
+1. Clone the repository
+2. Browse the `/docs` folder
+3. View Markdown files locally or with GitHub preview
+
+## Contributing
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+
+## License
+
+MIT - see [LICENSE](./LICENSE)
