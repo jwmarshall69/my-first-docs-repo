@@ -2,26 +2,28 @@
 
 ## 🎯 Objectives
 
-- EUnderstand YAML front matter and how it affects page rendering
-- Customize `_config.yml` to control theme and metadata
-- Add titles and descriptions to each page
-- Build a polished, navigable docs site
+- Understand what GitHub Actions are
+- Set up a simple workflow to lint Markdown or check spelling
+- Automate quality checks every time you push
+- Build a foundation for CI/CD in documentation
   
 ---
 
-## 🧠 What Is YAML Front Matter?
+## 🧠 What Is GitHub Actions?
 
-YAML front matter is metadata at the top of your `.md` files, enclosed in `---`. It tells Jekyll (the engine behind GitHub Pages) how to render the page.
+GitHub Actions let you create workflows that run when events happen in your repo (e.g., push, PR). It's like setting up your own little robot that checks your work every time you update your docs.
+
+These workflows are written in YAML and stored in   `.github/workflows/`.
 
 ---
 
 ## 📋 Task Checklist
 
-- [x]  Added YAML front matter to all `.md` pages
-- [x]  Created or updated `_config.yml` file
-- [x]  Structured docs for easy navigation
-- [x]  Customized site title, theme, and description
-- [x]  Verified updates on GitHub Pages site
+- [x]  Created `.github/workflows` directory
+- [x]  Added `markdown-lint.yml`
+- [x]  (Optional) Added `spell-check.yml` and config
+- [x]  Committed and pushed changes
+- [x]  Verified automation in the Actions tab
 
 ---
 
@@ -33,11 +35,11 @@ YAML front matter is metadata at the top of your `.md` files, enclosed in `---`.
 
 ---
 
-## 📝 Notes - Week 18 Highlights
+## 📝 Notes - Week 19 Highlights
 
-- Used YAML front matter to title and describe each docs page
-- Customized the site's look and feel via _config.yml
-- Improved navigability and metadata for my published docs
+- Set up GitHub Actions for Markdown linting and spell checks
+- Learned how to write YAML-based workflow automation
+- Now every push checks my docs for issues automatically
 
 ---
 
