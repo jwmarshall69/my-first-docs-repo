@@ -1,4 +1,4 @@
-# 📘 Week 13: Reviewing and Approving PRs Like a Tech Doc Lead
+# 📘 Week 14: Reviewing and Approving PRs Like a Tech Doc Lead
 
 ## 🎯 Objectives
 
