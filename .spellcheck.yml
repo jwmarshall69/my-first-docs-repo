@@ -1,0 +1,3 @@
+files:
+  - docs/**/*.md
+output: ./spellcheck-results.txt
