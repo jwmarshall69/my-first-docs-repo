@@ -1,4 +1,4 @@
-📘 Week 15: Reviewing and Approving PRs Like a Tech Doc Lead
+📘 Week 15: Syncing Forks & Managing Upstream Updates
 🎯 Objectives
 Review PRs for both technical and editorial quality
 Use GitHub’s review tools: comments, suggestions, approvals
