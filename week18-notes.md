@@ -1,31 +1,27 @@
-# 📘 Week 18: Publishing Documentation with GitHub Pages
+# 📘 Week 18: Customizing GitHub Pages with YAML & Front Matter
 
 ## 🎯 Objectives
 
-- Enable GitHub Pages in your repo
-- Publish Markdown files as a website
-- Understand how Jekyll powers GitHub Pages
-- Customize basic Pages settings
-
+- EUnderstand YAML front matter and how it affects page rendering
+- Customize `_config.yml` to control theme and metadata
+- Add titles and descriptions to each page
+- Build a polished, navigable docs site
+  
 ---
 
-## 🧠 What Is GitHub Pages?
+## 🧠 What Is YAML Front Matter?
 
-GitHub Pages lets you turn your repo into a live, public website using:
+YAML front matter is metadata at the top of your `.md` files, enclosed in `---`. It tells Jekyll (the engine behind GitHub Pages) how to render the page.
 
-- Static Markdown files
-- Optional themes via Jekyll
-- Auto-generated navigation based on your structure
-  
 ---
 
 ## 📋 Task Checklist
 
-- [x]  Enabled GitHub Pages from `/docs` folder
-- [x]  Created or renamed `index.md` as homepage
+- [x]  Added YAML front matter to all `.md` pages
+- [x]  Created or updated `_config.yml` file
 - [x]  Structured docs for easy navigation
-- [x]  Customized theme using `_config.yml`
-- [x]  Pushed changes and verified live site
+- [x]  Customized site title, theme, and description
+- [x]  Verified updates on GitHub Pages site
 
 ---
 
@@ -39,10 +35,9 @@ GitHub Pages lets you turn your repo into a live, public website using:
 
 ## 📝 Notes - Week 18 Highlights
 
-- Published my documentation live using GitHub Pages
-- Created a homepage and linked internal topics
-- Chose a Jekyll theme to style the docs
-- Now have a professional URL to share
+- Used YAML front matter to title and describe each docs page
+- Customized the site's look and feel via _config.yml
+- Improved navigability and metadata for my published docs
 
 ---
 
