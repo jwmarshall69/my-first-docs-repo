@@ -1,10 +1,6 @@
-# API Overview
+---
 
-This API allows users to manage to-do task via a REST interface
+title: API Overview
+description: A summary of the To-Do API's purpose and key endpoints.
 
-## Key Features
-
-- Add, retrieve, and delete tasks
-- Query by user ID
-
-📄 [Return to Overview](./overview.md)
+---

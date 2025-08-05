@@ -1,0 +1,8 @@
+title: To-Do API Documentation
+description: Official API documentation for the sample To-Do REST service.
+theme: jekyll-theme-cayman
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
