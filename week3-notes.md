@@ -32,8 +32,8 @@ Use this list to track your Week 3 progress.
 - [x] Install recommended extensions
 - [x] Created and edited a Markdown file
 - [x] Previewed the file using VS Code preview
-- [ ] Explore Gitlens annotation features
-- [ ] Customize my VS Code theme and settings
+- [x] Explore Gitlens annotation features
+- [x] Customize my VS Code theme and settings
 
 ## 📝 Notes
 
