@@ -1,4 +1,4 @@
-# 📘 Week 16: Publishing Documentation with GitHub Pages
+# 📘 Week 17: Publishing Documentation with GitHub Pages
 
 ## 🎯 Objectives
 
