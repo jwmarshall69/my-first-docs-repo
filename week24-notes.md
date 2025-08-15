@@ -48,7 +48,6 @@ Publishing a live documentation site using GitHub Pages and YAML configuration. 
 - Learn static site generators like Docusaurus or MkDocs
 ```
 
-
 ## 🔮 3. Next Step Ideas
 
 | Goal                          | Suggested Tools/Topics              |
