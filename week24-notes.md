@@ -13,7 +13,7 @@
 ## 🧠 1. Skills Checklist — What You’ve Mastered
 
 | Skill                               | ✅ |
-| ----------------------------------- | - |
+| ----------------------------------- | -  |
 | Create and manage repositories      | ✅ |
 | Branching, merging, and PRs         | ✅ |
 | Markdown and Docs-as-Code workflows | ✅ |
@@ -25,6 +25,7 @@
 
 ## 📝 2. Write Your Final Learning Reflection (Paste This in Your Notes or Repo)
 
+```bash
 ## 6-Month GitHub Docs Training Reflection
 
 This training helped me develop a full-stack understanding of GitHub from the perspective of an API Technical Writer.
@@ -45,8 +46,8 @@ Publishing a live documentation site using GitHub Pages and YAML configuration. 
 - Apply these skills to real product docs or internal tools
 - Start contributing to larger open source projects
 - Learn static site generators like Docusaurus or MkDocs
+```
 
----
 
 ## 🔮 3. Next Step Ideas
 
@@ -69,10 +70,10 @@ Publishing a live documentation site using GitHub Pages and YAML configuration. 
 
 ## ✅ Week 24 Task Checklist
 
-- [x] Completed final skills checklist
-- [x] Wrote a reflection or project summary
-- [x] Reviewed live portfolio repo
-- [x] Identified next steps and learning goals
+- ✅ Completed final skills checklist
+- ✅ Wrote a reflection or project summary
+- ✅ Reviewed live portfolio repo
+- ✅ Identified next steps and learning goals
 
 ---
 
