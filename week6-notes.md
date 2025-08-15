@@ -25,7 +25,7 @@ As a technical writer, PRs are where you and developers can collaborate, provide
 
 ### 1. Go to Your Pull Request on GitHub
 
-- Go to https://github.com → your repo
+- Go to [GitHub](https://github.com) → your repo
 - Click on the Pull Requests tab
 - Open the PR you created in Week 5 (`feature/api-overview`)
 
