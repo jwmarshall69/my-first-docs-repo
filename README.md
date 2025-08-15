@@ -17,8 +17,8 @@ This is a sample API documentation project designed as part of a 6-month GitHub 
 
 ## 🚀 Live Site
 
-[View Documentation](https://your-username.github.io/your-repo-name/)
+[View Documentation](https://jwmarshall69.github.io/my-first-docs-repo/)
 
 ## 🤝 Contributing
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md)
+See [CONTRIBUTING.md](https://github.com/jwmarshall69/my-first-docs-repo/blob/main/CONTRIBUTING.md)
