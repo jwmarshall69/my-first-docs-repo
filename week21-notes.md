@@ -1,0 +1,50 @@
+# 📘 Week 21: Contribute to Open Source Docs Using Your Skills
+
+## 🎯 Objectives
+
+- Identify beginner-friendly open source docs projects
+- Fork, clone, and make a meaningful contribution
+- Open a polished Pull Request (PR)
+- Engage with a community or maintainer
+  
+---
+
+## 🧠 Why This Matters
+
+Contributing to open-source documentation:
+
+- Builds your portfolio
+- Sharpens your collaboration and review skills
+- Shows future employers you’re active in the tech writing community
+- Helps real devs and writers while you learn
+
+---
+
+## 📋 Task Checklist
+
+- [x] Found and forked a public documentation repo
+- [x] Made a quality documentation edit
+- [x] Committed changes with a clean message
+- [x] Opened a Pull Request to the upstream repo
+- [x] Left a helpful title and description
+
+---
+
+## 🧪 Commands or Techniques Practiced
+
+```bash
+# Add your Git or CLI commands here
+```
+
+---
+
+## 📝 Notes - Week 21 Highlights
+
+- Found an open source docs project on GitHub
+- Forked, cloned, and contributed a markdown fix
+- Wrote a clean commit and PR
+- Ready to engage with maintainers and iterate
+
+---
+
+## 🔁 Commit Log
