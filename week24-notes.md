@@ -70,11 +70,8 @@ Publishing a live documentation site using GitHub Pages and YAML configuration. 
 ## ✅ Week 24 Task Checklist
 
 - [x] Completed final skills checklist
-
 - [x] Wrote a reflection or project summary
-
 - [x] Reviewed live portfolio repo
-
 - [x] Identified next steps and learning goals
 
 ---
