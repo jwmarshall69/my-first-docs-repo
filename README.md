@@ -1,23 +1,24 @@
 # To-Do API Documentation
 
-This project provides end-user and technical documentation for a sample To-Do API service.
+This is a sample API documentation project designed as part of a 6-month GitHub training plan for API Technical Writers.
 
-## Features
+## 🔧 Features
 
-- RESTful API overview
-- Authentication and usage examples
-- Modular Markdown docs in `/docs`
+- Modular Markdown files in `/docs`
+- YAML front matter and `_config.yml` for GitHub Pages
+- GitHub Actions for spell check and Markdown linting
+- Versioning via Git tags
 
-## Getting Started
+## 📂 Structure
 
-1. Clone the repository
-2. Browse the `/docs` folder
-3. View Markdown files locally or with GitHub preview
+- `docs/`: Main documentation pages
+- `.github/workflows/`: Automation scripts
+- `_config.yml`: GitHub Pages theme and metadata
 
-## Contributing
+## 🚀 Live Site
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+[View Documentation](https://your-username.github.io/your-repo-name/)
 
-## License
+## 🤝 Contributing
 
-MIT - see [LICENSE](./LICENSE)
+See [CONTRIBUTING.md](./CONTRIBUTING.md)
