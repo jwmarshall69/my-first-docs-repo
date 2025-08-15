@@ -1,32 +1,30 @@
-# 📘 Week 22: Contribute to Open Source Docs Using Your Skills
+# 📘 Week 22: Analyze Public API Docs Repo Structures
 
 ## 🎯 Objectives
 
-- Identify beginner-friendly open source docs projects
-- Fork, clone, and make a meaningful contribution
-- Open a polished Pull Request (PR)
-- Engage with a community or maintainer
+- Explore how established tech companies organize their API docs
+- Identify best practices for file/folder structure, naming, and navigation
+- Take notes on patterns you’d like to adopt
+- Begin refining your own repo accordingly
   
 ---
 
 ## 🧠 Why This Matters
 
-Contributing to open-source documentation:
+Great API doc repos aren’t just about good writing—they’re well-structured, navigable, and easy to maintain. By studying public examples, you’ll:
 
-- Builds your portfolio
-- Sharpens your collaboration and review skills
-- Shows future employers you’re active in the tech writing community
-- Helps real devs and writers while you learn
+- Learn scalable patterns for future projects
+- Avoid structural mistakes
+- Level up your “Docs-as-Code” thinking
 
 ---
 
 ## 📋 Task Checklist
 
-- [x] Found and forked a public documentation repo
-- [x] Made a quality documentation edit
-- [x] Committed changes with a clean message
-- [x] Opened a Pull Request to the upstream repo
-- [x] Left a helpful title and description
+- [x] Reviewed at least 2 public API doc repos
+- [x] Took notes on structure, automation, metadata, etc.
+- [x] Identified 3+ best practices to use in your own work
+- [x] (Optional) Applied one change to your current repo
 
 ---
 
@@ -40,10 +38,25 @@ Contributing to open-source documentation:
 
 ## 📝 Notes - Week 22 Highlights
 
-- Found an open source docs project on GitHub
-- Forked, cloned, and contributed a markdown fix
-- Wrote a clean commit and PR
-- Ready to engage with maintainers and iterate
+### Repo Analyzed: stripe/stripe-api-docs
+
+- Folders grouped by product (`payments`, `connect`)
+- Heavy use of `_data` and `_includes` for layout logic
+- All content stored in Markdown with front matter
+- GitHub Actions used to lint and test builds
+- Clean README and `CONTRIBUTING.md`
+
+### Repo Analyzed: postmanlabs/postman-docs
+
+- Docs live in `src/pages`
+- OpenAPI specs integrated via Redoc
+- Code samples stored separately
+
+### Takeaways for My Project
+
+- Use consistent hyphenated filenames
+- Add `_data.yml` if building sidebar nav later
+- Possibly separate reference and guide content
 
 ---
 
