@@ -31,16 +31,11 @@ In essence, the GitHub API documentation project provides everything a developer
 ## 📋 Task Checklist
 
 - [x]  Structured repo with /docs
-      
 - [x]  Filled out all Markdown files
-      
 - [x]  Configured GitHub Pages
-      
 - [x]  Added GitHub Actions
-      
 - [x]  Created tag and release
-      
-- [x]  Live documentation site   
+- [x]  Live documentation site
 
 ---
 
@@ -58,8 +53,6 @@ In essence, the GitHub API documentation project provides everything a developer
 - Used versioning, GitHub Pages, Actions, and front matter
 - Project is live and ready for collaboration or portfolio use
 
-
 ---
 
 ## 🔁 Commit Log
-
