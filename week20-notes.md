@@ -109,8 +109,6 @@ description: Developer documentation for a sample REST API
 
 ---
 
----
-
 ## 🧪 Commands or Techniques Practiced
 
 ```bash
