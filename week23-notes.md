@@ -26,6 +26,7 @@ It’s documentation about your documentation project—useful for devs, contrib
 
 ### 🧾 1. Upgrade Your `README.md`
 
+```bash
 Make sure it includes:
 
 ## To-Do API Documentation
@@ -52,6 +53,7 @@ This is a sample API documentation project designed as part of a 6-month GitHub 
 ## 🤝 Contributing
 
 See [CONTRIBUTING.md](https://github.com/jwmarshall69/my-first-docs-repo/blob/main/CONTRIBUTING.md)
+```
 
 ### 🧱 2. Add a `meta.md` (Optional but Pro)
 
@@ -91,14 +93,6 @@ Use git log or GitHub Desktop to:
 
 ```
 
-## 📋 Task Checklist
-
-- [x] Refined and expanded your `README.md`
-- [x] Added meta-documentation explaining the project structure
-- [x] Cleaned up commit messages and branch clutter
-- [x] Uploaded screenshot and tested links
-- [x] Verified GitHub Pages site is working and clean
-
 ---
 
 ## 🧪 Commands or Techniques Practiced
@@ -109,14 +103,24 @@ Use git log or GitHub Desktop to:
 
 ---
 
-## 📝 Notes - Week 23 Highlights
+## 📝 Week 23 Notes
 
-``` bash
+```bash
+## Highlights
+
 - Rewrote my README to be job/interview-ready
 - Added a meta.md file to explain structure and tooling
 - Cleaned up old commit messages for clarity
 - Now have a polished API documentation portfolio piece
 ```
+
+## 📋 Task Checklist
+
+- [x] Refined and expanded your `README.md`
+- [x] Added meta-documentation explaining the project structure
+- [x] Cleaned up commit messages and branch clutter
+- [x] Uploaded screenshot and tested links
+- [x] Verified GitHub Pages site is working and clean
 
 ---
 
