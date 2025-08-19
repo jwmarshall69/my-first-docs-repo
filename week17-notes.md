@@ -21,20 +21,20 @@ GitHub Pages lets you turn your repo into a live, public website using:
 
 ## 🛠️ Step-by-Step: Publish with GitHub Pages
 
-## ✅ 1. Enable **GitHub Pages**
+## ✅ 1. Enable GitHub Pages
 
-### 1. Go to your **GitHub repo**
+### 1. Go to your *GitHub repo
 
-### 2. Click **Settings** > **Pages** (in the left sidebar)
+### 2. Click Settings > Pages (in the left sidebar)
 
-### 3. Under **"Source"**, select
+### 3. Under "Source", select
 
 - Branch: `main`
 - Folder: `/docs`
 
 ### 4. Click **Save**
 
-✅ GitHub will assign you a **URL** like:
+✅ GitHub will assign you a URL like:
 `https://your-username.github.io/my-first-docs-repo`
 
 ### ⚠️ It may take a minute or two for the site to become active
@@ -63,11 +63,11 @@ Use this site to get started with the API, explore features, and find answers to
 - [FAQ](./faq.md)
 ```
 
-## 🎨 3. Optional: **Use a GitHub Pages Theme**
+## 🎨 3. Optional: Use a GitHub Pages Theme
 
-### 1. In Settings > Pages > **Theme Chooser**
+### 1. In Settings > Pages > Theme Chooser
 
-### 2. Pick a built-in Jekyll theme (like **Minimal, Cayman, or Slate**)
+### 2. Pick a built-in Jekyll theme (like Minimal, Cayman, or Slate)
 
 ### 3. GitHub will automatically create `_config.yml` for you
 
