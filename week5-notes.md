@@ -78,14 +78,6 @@ In GitHub Desktop:
 - Description: “Initial structure for API overview section.”
 - Click Create Pull Request
 
-## 📋 Task List
-
-- [x] Learned branch types and naming conventions
-- [x] Created a `feature/api-overview`
-- [x] Wrote a new topic file
-- [x] Committed and pushed to GitHub
-- [x] Opened a PR for it
-
 ---
 
 ## 🧪 Commands or Techniques Practiced
@@ -96,9 +88,21 @@ In GitHub Desktop:
 
 ## 📝 Week 5 Notes
 
+```bash
+## Highlights
+
 - [x] Learned branch types and naming conventions
 - [x] Created a `feature/api-overview branch`
 - [x] Wrote a new topic file
+- [x] Opened a PR for it
+```
+
+## 📋 Task List
+
+- [x] Learned branch types and naming conventions
+- [x] Created a `feature/api-overview`
+- [x] Wrote a new topic file
+- [x] Committed and pushed to GitHub
 - [x] Opened a PR for it
 
 ---
