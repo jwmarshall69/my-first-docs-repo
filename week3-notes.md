@@ -58,25 +58,22 @@ git status
 
 ```
 
-## Task List
-
-- [x] Installed extensions
-- [x] Explore GitLens features
-
-## 🧰 Installed Extensions
-
-- ✅ Markdown All-in-One
-- ✅ GitLens
-- ✅ YAML (Red Hat)
-- ✅ Prettier
-- ✅ Markdownlint
-
 ---
 
 ## 🧪 Code Sample
 
 ```bash
 git status
+```
+
+## 📝 Week 3 Notes
+
+```bash
+## Highlights
+
+- I like using the Markdown preview for reviewing formatting.
+- Gitlens shows who made each change in the fille- very useful!
+- Still exploring settings to make VS Code more writing-friendly.
 ```
 
 ## 📋 Task List
@@ -90,13 +87,12 @@ Use this list to track your Week 3 progress.
 - [x] Explore Gitlens annotation features
 - [x] Customize my VS Code theme and settings
 
-## 📝 Notes
+## 🧰 Installed Extensions
 
-- I like using the Markdown preview for reviewing formatting.
-- Gitlens shows who made each change in the fille- very useful!
-- Still exploring settings to make VS Code more writing-friendly.
+- ✅ Markdown All-in-One
+- ✅ GitLens
+- ✅ YAML (Red Hat)
+- ✅ Prettier
+- ✅ Markdownlint
 
 ## 🔁 Commit Log
-
-- `Added week3-notes.md`
-- `Updated task list and key takeaways`
