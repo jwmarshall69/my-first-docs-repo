@@ -55,14 +55,6 @@ Even if you’re the only contributor for now:
 
 ---
 
-## 📋 Task List
-
-- [x] Opened the Pull Request created last week
-- [x] Reviewed the changes in the “Files changed” tab
-- [x] Submitted a review (even self-review)  
-- [x] Merged the branch into `main`  
-- [x] Deleted the branch (optional but clean)
-
 ---
 
 ## 🧪 Commands or Techniques Practiced
@@ -73,11 +65,23 @@ Even if you’re the only contributor for now:
 
 ---
 
-## 📝 Notes - Week 6 Highlights
+## 📝 Week 6 Notes
+
+```bash
+## Highlights
 
 - Reviewed and merged `feature/api-overview`
 - Practiced using GitHub's Pull Request tools
 - Deleted the branch after merging
+```
+
+## 📋 Task List
+
+- [x] Opened the Pull Request created last week
+- [x] Reviewed the changes in the “Files changed” tab
+- [x] Submitted a review (even self-review)  
+- [x] Merged the branch into `main`  
+- [x] Deleted the branch (optional but clean)
 
 ---
 
