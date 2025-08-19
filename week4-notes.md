@@ -63,14 +63,6 @@ In GitHub Desktop:
 - Add a title: `Add Week 4 Notes`
 - Leave a short description and click **Create Pull Request**
 
-## 📋 Task List
-
-- [x]  Created `feature/week4-notes` branch
-- [x]  Added `week4-notes.md`
-- [x]  Committed changes in GitHub Desktop
-- [x]  Pushed the branch to GitHub
-- [x]  Opened a Pull Request
-
 ---
 
 ## 🧪 Commands or Techniques Practiced
@@ -81,11 +73,23 @@ In GitHub Desktop:
 
 ---
 
-## 📝 Notes - Branching and Pushing
+## 📝 Week 4 Notes  
+
+```bash
+## Highlights
 
 - Create a new branch called 'feature/week4-notes'
 - wrote notes about Git branching
 - Pushed my branch to GitHub
+```
+
+## 📋 Task List
+
+- [x]  Created `feature/week4-notes` branch
+- [x]  Added `week4-notes.md`
+- [x]  Committed changes in GitHub Desktop
+- [x]  Pushed the branch to GitHub
+- [x]  Opened a Pull Request
 
 ---
 
