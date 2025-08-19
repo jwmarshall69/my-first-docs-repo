@@ -96,7 +96,7 @@ You're now a contributor! 🎉
 
 ---
 
-## 📝 Week 8Notes
+## 📝 Week 8 Notes
 
 ```bash
 ### Week Highlights
