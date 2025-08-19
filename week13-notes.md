@@ -87,7 +87,7 @@ Thanks for your interest! Here's how to help improve this project.
 - Use tables and headings for structure
 ```
 
-🔄 4. Commit and Push
+## 🔄 4. Commit and Push
 
 Commit each file separately with clear messages like:
 
