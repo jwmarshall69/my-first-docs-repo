@@ -86,9 +86,9 @@ Once you're happy:
 
 ## 📝 Week 14 Notes
 
+```bash
 ## Highlights
 
-```bash
 - Reviewed a Pull Request using line-by-line feedback
 - Left a suggestion with improved phrasing
 - Approved and merged the PR like a content lead
